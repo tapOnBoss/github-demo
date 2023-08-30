@@ -1,5 +1,1 @@
-Test Git Start deni
-Test Git Start deni
-Test Git Start deni
-Test Git Quick Start deno
-Test Git Quick Start demo
+Test Git Start demo
